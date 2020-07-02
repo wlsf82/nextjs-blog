@@ -1,2 +1,1 @@
-# nextjs-blog
-Get started project from Next.js docs.
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
